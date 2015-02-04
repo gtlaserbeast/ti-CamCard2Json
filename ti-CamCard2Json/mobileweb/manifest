@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: ti-CamCard2Json
+author: willfisher
+license: Specify your license
+copyright: Copyright (c) 2015 by Your Company
+
+# these should not be edited
+name: ti-CamCard2Json
+moduleid: CamCard2Json
+guid: 6d42096e-3b06-494a-bd3c-5ea3edb5daf8
+platform: mobileweb
+minsdk: 3.5.0.GA
